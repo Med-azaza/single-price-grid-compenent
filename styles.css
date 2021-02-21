@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
+h1 {
+    font-weight: 700;
+    color: hsl(179, 77%, 33%);
+}
+.gr {
+    color: hsl(71, 73%, 54%);
+}
+#container {
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-left: 25%;
+    width: 50%;
+    height: 500px;
+    box-shadow: 0px 10px 50px grey;
+    border-radius: 7px;
+}
+.case1 {
+    height: 50%;
+    width: 100%;
+    padding: 30px;
+    font-weight: 700;
+    color: hsl(218, 22%, 67%)
+}
+.case2 {
+    height: 50%;
+    width: 50%;
+    float: left;
+    background-color: hsl(179, 77%, 33%);
+    border-radius: 0px 0px 0px 7px;
+    padding: 30px;
+    line-height: 30px;
+    color: white;
+}
+.c3 {
+    height: 50%;
+    width: 50%;
+    float: left;
+    background-color: hsl(179, 62%, 43%);
+    border-radius: 0px 0px 7px 0px;
+    padding: 30px;
+    color: white;
+}
+.big {
+    font-size: 30px;
+}
+.grey{
+    color: hsl(218, 22%, 67%);
+}
+.button {
+    background-color: hsl(71, 73%, 54%);
+    margin-top: 15px;
+    text-align: center;
+    height: 40px;
+    padding: 5px;
+    border-radius: 5px;
+}
